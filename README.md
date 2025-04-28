@@ -74,7 +74,8 @@ Histogram equalization improves the contrast of an image by effectively spreadin
 
 | Original Image | After Histogram Equalization |
 | :------------: | :---------------------------: |
-| ![Original](demoImages/badQuality.jpg) | ![Equalized](demoImages/equalized.jpg) |
+| !<img width="480" alt="image" src="https://github.com/user-attachments/assets/4cf27f0f-ae06-440e-8d12-384300a12808" />
+)  |
 
 *(Sample output — customize with your actual results.)*
 
@@ -99,7 +100,7 @@ matplotlib
 ---
 
 ## ✍️ Author
-- **Your Name** — [GitHub Profile](https://github.com/your-username)
+- **Your Name** — [https://github.com/your-username](https://github.com/deribewsoftware))
 
 ---
 

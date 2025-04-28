@@ -100,7 +100,7 @@ matplotlib
 ---
 
 ## ✍️ Author
-- **Your Name** — [https://github.com/deribewsoftware](https://github.com/deribewsoftware))
+- **Deribew Shimelis** — [https://github.com/deribewsoftware](https://github.com/deribewsoftware))
 
 ---
 
